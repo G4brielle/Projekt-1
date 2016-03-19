@@ -1,0 +1,16 @@
+Ein Generator für Dungeons basierend auf Dungeon and Dragons
+
+Dieser Generator soll verschiedene Dropdowns haben in denen man Einstellungen ändern kann.
+Einstellungen sind zum Beispiel:
+
+Der Schwierigkeitsgrad in leicht, mittel, schwer, tödlich
+Die Gruppengröße varierend zwischen 1-15
+Das Level der Gruppe, wobei dort auch Mischgruppen vorhanden sein sollen zwischen Level 1-20
+Die Dungeongröße in klein, mittel, groß, sehr groß
+Der Drachentyp ob rot, blaub, grün, schwarz, weiß, bronze, silber, gold, kupfer, messing
+Und ob es der Dungeon des Drachen ist oder nicht.
+
+Ausgegeben werden soll:
+Der Loot, abhängig vom Drachentyp für den Dungeon und der Loot für die einzelnen Mobsgruppen
+Die Mobs, eingeteilt in Gruppen
+Eine Karte, mit Nummerierung für die Mobgruppen
