@@ -27,6 +27,14 @@ Missverstehen Sie das bitte nicht: Wenn es ein solches Programm noch nicht gibt,
 
 Wenn Sie nach diesen Hinweisen keine Idee bekommen, wie Sie Ihr Projekt abwandeln können, sodass es eine interaktive Anwendung im Sinne des Projekts wird, dann setzen Sie das Spiel Targi um. Unter http://www.brettspiele-report.de/targi/ finden Sie eine ausführliche Beschreibung.
 
+=== Antwort auf das Feedback G4brielle, 2016-04-08 ===
+
+Der Generator soll einen Dungeon generieren und damit selbstverständlich auch eine Karte auf der Nummern stehen denen weitere Informationen (wie z.B. Mobgruppen) zugeordnet sind.
+
+Die Karte, wie auch die zusätzlichen Informationen, werden anhand von Usereingaben (Die von mir genannten Einstellungen, s.o.) individuel generiert. Natürlich liegen die Daten dafür in irgend einer tabellarischen Form vor, der Schwerpunkt liegt aber auf der eigentlichen Generation, die neben den genannten Einstellungen auch zufällige Elemente enthält um bei jedem neuen generieren auch unterschiedliche Ergebnisse zu ermöglichen. Die dafür verwendeten Daten basieren zwar auf Dungeon und Dragons (Und sind zum Teil lizenzfrei als Basic Rules verfügbar), sind aber nicht nur auf dieses eine Regelwerk festgelegt.
+
+Zu dem Spiel Targi ist mir aufgefallen, dass dieses bereits online spielbar ist und damit ja nicht als Projekt geeignet ist (Da es ja etwas neues sein muss).
+
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
 
 Sie haben jetzt gezeigt, dass Sie einfache Arbeiten mit einem Git-Repository beherrschen.
