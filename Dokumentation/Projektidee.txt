@@ -110,3 +110,13 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später während 
 
 Viele Grüße,
 Markus Alpers
+
+=== Feedback Alpers, 2016-04-27 ===
+
+Leider haben Sie einen essentiellen Hinweis übersehen: Der Generator ist leider nicht als Projekt geeignet, weil er nicht ausreichend interaktiv ist. Interaktivität zwischen Mensch und Maschine ist bei diesem Projekt aber der zentrale Dreh- und Angelpunkt.
+
+Damit kommen wir zu einer der wichtigsten Grundlagen der Projektarbeit: Wenn Sie ohne Absprache mit einem Kunden (dessen Part ich als Dozent übernehme) etwas umsetzen, dass nicht dem entspricht, was er will, dann ist die Konsequenz im schlimmsten Fall, dass Sie einen Auftrag verlieren. In jedem Fall aber werden Sie für geleistete Arbeit nichts erhalten, weil Sie etwas erstellt haben, das der Kunde nicht will.
+
+Da Sie das Spiel Targi nicht umsetzen wollen, nehmen Sie bitte das folgende Spiel als Vorlage: Imperial http://www.brettspiele-report.de/imperial/
+
+=== Feedback Ende ===
